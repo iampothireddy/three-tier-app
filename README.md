@@ -1,1 +1,1 @@
-# three-tier-app
+two-tier-app
